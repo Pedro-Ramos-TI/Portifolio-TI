@@ -36,3 +36,17 @@ O arquivo `sistema_chamados.sql` inclui consultas focadas em tomada de decisão 
 1. Abra o seu SGBD de preferência (MySQL Workbench, phpMyAdmin ou DBeaver).
 2. Importe e execute o arquivo `sistema_chamados.sql`.
 3. As tabelas serão criadas e populadas com dados de teste para execução das consultas.
+   ---
+
+## 🐍 Automação de Relatórios de TI (Python)
+
+Script em Python desenvolvido para automatizar a leitura de chamados de suporte exportados em formato CSV, processando indicadores operacionais e gerando resumos executivos automáticos.
+
+### 🛠️ Funcionalidades:
+* Leitura e parsing de arquivos `.csv` de chamados.
+* Contagem e filtragem de status (Aberto, Em Atendimento, Concluído).
+* Identificação automática de incidentes críticos de alta prioridade.
+* Exportação de relatório formatado em arquivo `.txt` com carimbo de data/hora.
+
+### 🚀 Tecnologias Utilizadas:
+* **Linguagem:** Python 3 (Módulos nativos: `csv`, `datetime`)
