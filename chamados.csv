@@ -1,0 +1,7 @@
+id,equipamento,setor,prioridade,status
+1,Projetor EPSON,Sala 03 - Bloco A,Alta,Aberto
+2,PC Dell OptiPlex,Secretaria Acadêmica,Média,Em Atendimento
+3,Sistema de Som,Auditório,Baixa,Concluído
+4,Impressora HP,Financeiro,Alta,Aberto
+5,Ar Condicionado,Lab 02,Alta,Concluído
+6,PC Lenovo,Biblioteca,Média,Concluído
